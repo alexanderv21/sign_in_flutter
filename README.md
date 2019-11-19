@@ -1,6 +1,6 @@
 # sign_in_flutter
 
-A new Flutter project.
+A new Flutter project based on https://medium.com/flutter-community/flutter-implementing-google-sign-in-71888bca24ed
 
 ## Getting Started
 
